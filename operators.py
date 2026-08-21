@@ -1,0 +1,5 @@
+a = input("enter a number")
+b = input("Enter a number")
+print(a and b)
+print(a<5 or b<5)
+print(a!>b)
